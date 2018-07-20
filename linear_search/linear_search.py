@@ -1,6 +1,7 @@
 #!/usr/bin/python2.7 -tt
 
 #Notes:
+#this is a linear search algorithm for a sorted array
 #to run type: python linear_search.py in terminal
 #you can change the number in array thevalues
 
